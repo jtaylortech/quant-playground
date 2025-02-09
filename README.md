@@ -1,11 +1,9 @@
 # Quant Finance Playground
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 **An all-in-one interactive platform to master quantitative finance.**  
 Write code, backtest strategies, visualize data, and prepare for interviews—all in your browser, no setup required.
 
-![Demo](assets/demo.gif) <!-- Add a demo GIF later -->
+# ![Demo](assets/demo.gif) <!-- Add a demo GIF later -->
 
 ## 🌟 Features
 ### **Coding & Modeling**
@@ -55,7 +53,7 @@ Write code, backtest strategies, visualize data, and prepare for interviews—al
 - **Mobile App**: Backtest and monitor strategies on the go.
 
 ## 👨‍💻 Get Started
-1. Visit [quantplay.io](https://quantplay.io) (replace with your URL)
+1. Visit [quantplay.io](https://quantplayground.io/) (replace with your URL)
 2. Write code → Run → Visualize results. No signup required for the free tier!
 ```python
 # Example: Black-Scholes Option Pricing
@@ -64,13 +62,9 @@ price = black_scholes(S=100, K=110, T=1, r=0.05, sigma=0.2, option_type='call')
 print(f"Option Price: ${price:.2f}")
 ```
 
-## 🔗 About
 Quant Finance Playground is a solopreneur project and a vision to create the ultimate platform for anyone looking to master quantitative finance. Whether you're a student, an aspiring quant, or a professional sharpening your skills, this platform provides the tools and resources to succeed.
 
-This project is not currently open-source but aims to grow as a business to make quant finance accessible and approachable for all.
+This project is proprietary and not open-source. All rights are reserved by the author. Unauthorized copying, modification, or distribution of this software is strictly prohibited.
 
-### License
-This project is licensed under the [MIT License](LICENSE).
-
-### Contact
-For inquiries or suggestions, please email [your_email@example.com](mailto:your_email@example.com).
+## License
+This project is proprietary and not open-source. All rights are reserved by the author. Unauthorized copying, modification, or distribution of this software is strictly prohibited
