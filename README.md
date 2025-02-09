@@ -3,7 +3,9 @@
 **An all-in-one interactive platform to master quantitative finance.**  
 Write code, backtest strategies, visualize data, and prepare for interviews—all in your browser, no setup required.
 
-# ![Demo](assets/demo.gif) <!-- Add a demo GIF later -->
+<!---
+![Demo](assets/demo.gif) Add a demo GIF later 
+-->
 
 ## 🌟 Features
 ### **Coding & Modeling**

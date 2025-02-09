@@ -6,6 +6,15 @@
 - Identify must-have vs. nice-to-have features.
 - Research similar platforms (Replit, CodePen, QuantConnect) for inspiration and differentiation.
 - Define user personas (students, aspiring quants, professionals pivoting into quant).
+- Determine key differentiators that make this platform unique (e.g., beginner-friendly, seamless data integration, AI-powered strategy optimization).
+- Define system performance expectations (execution speed, resource consumption, scalability needs).
+- Establish security and privacy policies, especially for user data and API keys.
+- Identify must-have vs. nice-to-have features.
+- Research similar platforms (Replit, CodePen, QuantConnect) for inspiration and differentiation.
+- Define user personas (students, aspiring quants, professionals pivoting into quant).
+- Determine key differentiators that make this platform unique (e.g., beginner-friendly, seamless data integration, AI-powered strategy optimization).
+- Define system performance expectations (execution speed, resource consumption, scalability needs).
+- Establish security and privacy policies, especially for user data and API keys.
 
 ### **2. Technology Stack Selection**
 - **Frontend:** React (Next.js for SSR), TypeScript, Monaco Editor (VS Code core).
@@ -14,6 +23,7 @@
 - **Data Pipelines:** Apache Airflow, AWS S3 for dataset storage.
 - **Hosting:** AWS/GCP/Azure (to be decided based on costs & scalability needs).
 - **Authentication:** Firebase Auth or Auth0 for seamless login.
+- **Real-time collaboration:** WebSockets or Socket.io for multi-user interactions.
 
 ---
 
