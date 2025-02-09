@@ -1,0 +1,52 @@
+quantplay-venv/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore logs and temporary files
+*.log
+*.out
+*.swp
+.DS_Store
+
+# Ignore environment variables and config files
+.env
+*.env
+secrets.json
+config.json
+
+# Ignore dependency caches
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+*.DS_Store
+
+# Ignore VS Code settings (if using VS Code)
+.vscode/
+
+# Ignore PyCharm settings (if using PyCharm)
+.idea/
+
+# Ignore coverage and test-related files
+.coverage
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+hypothesis/
+
+# Ignore compiled C extensions
+*.so
+
+# Ignore mypy cache
+.mypy_cache/
+
+# Ignore tox environments
+.tox/
